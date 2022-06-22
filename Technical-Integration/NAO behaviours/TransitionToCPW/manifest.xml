@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package installOnlyAtStartup="false" uuid="transitiontocpw-a3b364" version="0.0.0">
+ <names>
+  <name lang="en_US">TransitionToCPW</name>
+ </names>
+ <supportedLanguages>
+  <language>es_ES</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>es_ES</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
